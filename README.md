@@ -29,8 +29,11 @@ ball-by-ball delivery, team, and player performance data.
 - Interactive slicers and filters
 
 ## Screenshots
+![IPL Dashboard 1](<ChatGPT Image Sep 9, 2026, 11_58_22 AM.png>)
 
-The dashboard screenshots are available in this repository.
+![IPL Dashboard 2](<ChatGPT Image Sep 9, 2026, 12_02_51 PM.png>)
+
+![IPL Dashboard 3](<ChatGPT Image Sep 9, 2026, 12_05_12 PM.png>)
 
 ## Author
 
